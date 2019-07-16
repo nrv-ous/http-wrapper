@@ -3,6 +3,7 @@
 Simple wrapper for libcurl that I wrote in a few minutes.
 
 ```cpp
+#include "iostream"
 #include "http.h"
 
 int main()
