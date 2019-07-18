@@ -1,6 +1,6 @@
 # http-wrapper
 
-Simple wrapper for libcurl that I wrote in a few minutes.
+Little wrapper for libcurl that I wrote up in a few minutes.
 
 ```cpp
 #include "iostream"
